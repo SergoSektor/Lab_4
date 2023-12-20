@@ -1,0 +1,173 @@
+C:\Users\arefe\source\repos\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\arefe\source\repos\CardGame\bin\Debug\CardGame.exe
+C:\Users\arefe\source\repos\CardGame\bin\Debug\CardGame.pdb
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\arefe\source\repos\CardGame\obj\Debug\GameScence.g.cs
+C:\Users\arefe\source\repos\CardGame\obj\Debug\MainWindow.g.cs
+C:\Users\arefe\source\repos\CardGame\obj\Debug\App.g.cs
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+C:\Users\arefe\source\repos\CardGame\obj\Debug\GameScence.baml
+C:\Users\arefe\source\repos\CardGame\obj\Debug\MainWindow.baml
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.g.resources
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.exe
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.pdb
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\arefe\source\repos\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\arefe\source\repos\CardGame\obj\Debug\CardGame.Resource.resources
+C:\Users\arefe\source\repos\CardGame\obj\Debug\DebugOut.g.cs
+C:\Users\arefe\source\repos\CardGame\obj\Debug\EndGame.g.cs
+C:\Users\arefe\source\repos\CardGame\obj\Debug\DebugOut.baml
+C:\Users\arefe\source\repos\CardGame\obj\Debug\EndGame.baml
+D:\продаю\CardGame\bin\Debug\CardGame.exe.config
+D:\продаю\CardGame\bin\Debug\CardGame.exe
+D:\продаю\CardGame\bin\Debug\CardGame.pdb
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.dll
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.pdb
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.xml
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\продаю\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\продаю\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+D:\продаю\CardGame\obj\Debug\DebugOut.g.cs
+D:\продаю\CardGame\obj\Debug\EndGame.g.cs
+D:\продаю\CardGame\obj\Debug\GameScence.g.cs
+D:\продаю\CardGame\obj\Debug\MainWindow.g.cs
+D:\продаю\CardGame\obj\Debug\App.g.cs
+D:\продаю\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+D:\продаю\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+D:\продаю\CardGame\obj\Debug\DebugOut.baml
+D:\продаю\CardGame\obj\Debug\EndGame.baml
+D:\продаю\CardGame\obj\Debug\GameScence.baml
+D:\продаю\CardGame\obj\Debug\MainWindow.baml
+D:\продаю\CardGame\obj\Debug\CardGame.g.resources
+D:\продаю\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+D:\продаю\CardGame\obj\Debug\CardGame.Resource.resources
+D:\продаю\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+D:\продаю\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+D:\продаю\CardGame\obj\Debug\CardGame.csproj.CopyComplete
+D:\продаю\CardGame\obj\Debug\CardGame.exe
+D:\продаю\CardGame\obj\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\SergoSektor\Desktop\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\DebugOut.g.cs
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\EndGame.g.cs
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\GameScence.g.cs
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\MainWindow.g.cs
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\App.g.cs
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\DebugOut.baml
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\EndGame.baml
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\GameScence.baml
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\MainWindow.baml
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.g.resources
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.Resource.resources
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.csproj.CopyComplete
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\CardGame\obj\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\DebugOut.g.cs
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\EndGame.g.cs
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\GameScence.g.cs
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\MainWindow.g.cs
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\App.g.cs
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\DebugOut.baml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\EndGame.baml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\GameScence.baml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\MainWindow.baml
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.g.resources
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.Resource.resources
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.csproj.CopyComplete
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\Лабы\лабы\8\CardGame\obj\Debug\CardGame.pdb
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\CardGame.exe
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Sergo Sektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\DebugOut.g.cs
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\EndGame.g.cs
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\GameScence.g.cs
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\MainWindow.g.cs
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\App.g.cs
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\DebugOut.baml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\EndGame.baml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\GameScence.baml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\MainWindow.baml
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.g.resources
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.Resource.resources
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.CopyComplete
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.exe
+C:\Users\Sergo Sektor\Desktop\8\CardGame\obj\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\CardGame.pdb
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\SergoSektor\Desktop\8\CardGame\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\DebugOut.g.cs
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\EndGame.g.cs
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\GameScence.g.cs
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\MainWindow.g.cs
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\App.g.cs
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame_MarkupCompile.cache
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame_MarkupCompile.lref
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\DebugOut.baml
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\EndGame.baml
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\GameScence.baml
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\MainWindow.baml
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.g.resources
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.Resource.resources
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.csproj.CopyComplete
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.exe
+C:\Users\SergoSektor\Desktop\8\CardGame\obj\Debug\CardGame.pdb

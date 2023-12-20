@@ -1,0 +1,1 @@
+<Controller i:type="a:string" xmlns="http://schemas.datacontract.org/2004/07/CardGame" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">[{"$type":"CardGame.CardWarrior, CardGame","attack":3,"health":3,"max_health":3,"alive":true,"Effect":"Null","Name":"Минотавр","Price":1,"DebugOff":false,"sprite_file":"mino.png"}]</Controller>

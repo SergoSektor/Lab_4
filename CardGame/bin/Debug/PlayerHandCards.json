@@ -1,0 +1,1 @@
+<Controller i:type="a:string" xmlns="http://schemas.datacontract.org/2004/07/CardGame" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">[{"$type":"CardGame.CardSpellImprove, CardGame","attack_mod":0,"health_mod":0,"effect_mod":"Hardness","Name":"Волшебный щит","Price":1,"DebugOff":false,"sprite_file":"shield_magic.png"}]</Controller>

@@ -1,0 +1,23 @@
+<Controller xmlns="http://schemas.datacontract.org/2004/07/CardGame" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><BattleFlag>false</BattleFlag><WaitFlag>false</WaitFlag><game><DebugOff>false</DebugOff><Enemy_HP>10</Enemy_HP><Enemy_MP>1</Enemy_MP><Player_HP>9</Player_HP><Player_MP>2</Player_MP><RoundNumber>4</RoundNumber><gameLines><GameLine><EnemyWarrior><DebugOff>false</DebugOff><Name>Шаман</Name><Price>1</Price><sprite_file>sdaman.png</sprite_file><Effect>Hardness</Effect><alive>true</alive><attack>1</attack><health>1</health><max_health>1</max_health></EnemyWarrior><FriendlyWarrior><DebugOff>false</DebugOff><Name>Всадник</Name><Price>1</Price><sprite_file>horseman.png</sprite_file><Effect>Hardness</Effect><alive>true</alive><attack>1</attack><health>2</health><max_health>3</max_health></FriendlyWarrior></GameLine><GameLine><EnemyWarrior><DebugOff>false</DebugOff><Name>Орк</Name><Price>1</Price><sprite_file>orc.png</sprite_file><Effect>Null</Effect><alive>true</alive><attack>1</attack><health>1</health><max_health>1</max_health></EnemyWarrior><FriendlyWarrior><DebugOff>false</DebugOff><Name>Воин</Name><Price>1</Price><sprite_file>warrior.png</sprite_file><Effect>Null</Effect><alive>true</alive><attack>1</attack><health>1</health><max_health>1</max_health></FriendlyWarrior></GameLine><GameLine><EnemyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></EnemyWarrior><FriendlyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></FriendlyWarrior></GameLine><GameLine><EnemyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></EnemyWarrior><FriendlyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></FriendlyWarrior></GameLine><GameLine><EnemyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></EnemyWarrior><FriendlyWarrior><DebugOff>false</DebugOff><Name i:nil="true"/><Price>0</Price><sprite_file>CardNull.png</sprite_file><Effect>Null</Effect><alive>false</alive><attack>0</attack><health>0</health><max_health>0</max_health></FriendlyWarrior></GameLine></gameLines></game><logs>Round 1 Враг получает урон 
+Round 1 Враг получает урон 
+Round 1 Враг получает урон 
+Round 1 Враг получает урон 
+Round 1 Враг получает урон 
+Round 2 Round 2 Враг поместил на поле врага  
+Round 2 Игрок получает урон 
+Round 2 Игрок получает урон 
+Round 2 Игрок получает урон 
+Round 2 Игрок получает урон 
+Round 2 Игрок получает урон 
+Round 3 Враг получает урон 
+Round 3 Враг получает урон 
+Round 3 Враг получает урон 
+Round 3 Враг получает урон 
+Round 3 Враг получает урон 
+Round 4 Round 4 Враг поместил на поле врага  
+Round 4 Round 4 Враг поместил на поле врага  
+Round 4 Карта 'Каменная кожа' модификация Эффект: Стойкость на величину 0/2 
+Round 4 Round 4 Враг сыграл заклинание атаки Огненный шар по Эффект: Стойкость 
+Round 4 Карта атаки 'Огненный шар' нанесен урон Эффект: Стойкость в размере 2 
+Round 4 'Всадник' получает урон - 2 
+</logs><stage>1</stage></Controller>
